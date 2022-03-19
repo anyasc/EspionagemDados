@@ -3,8 +3,8 @@ const key = "09cb48c988e64b9bab11aa23eee42fab";
 const ipInfo = document.getElementById("ip-info"),
 userInfo = document.getElementById("user-info");
 document.addEventListener("DOMContentLoaded", function() {
-    //getIP();
-    //getUserAgent();
+    getIP();
+    getUserAgent();
   });
 
 const getIP = () => {

@@ -1,0 +1,33 @@
+body {
+  background-color: #30267e;
+  color: #25D0A2;
+}
+
+h1,
+h2 {
+  color: #47FFF3;
+}
+
+h1 {
+  margin: 3rem 2rem 2rem 1rem;
+  text-align: center;
+}
+
+cite {
+  color: rgb(177, 93, 157);
+}
+
+.card {
+  background-color: #020701;
+
+  color: #5cc73c;
+}
+
+.card-title {
+  color: #cff6c4;
+}
+
+.body-img {
+    width: 80vw;
+    margin: 1em 0;
+}
